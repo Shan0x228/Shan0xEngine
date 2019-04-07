@@ -1,0 +1,10 @@
+﻿  GraphicsCore.cpp
+  UiWindowChild.cpp
+c:\users\shan0x\source\repos\shan0xengine\uiwindow\uiwindowchild.cpp(26): warning C4311: reinterpret_cast: усечение указателя из "LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)" в "LONG"
+c:\users\shan0x\source\repos\shan0xengine\uiwindow\uiwindowchild.cpp(26): warning C4302: reinterpret_cast: усечение из "LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)" к "LONG"
+  Source.cpp
+  UiWindow.cpp
+  Создание кода
+  All 168 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  UiWindow.vcxproj -> C:\Users\Shan0x\source\repos\Shan0xEngine\UiWindow\x64\Release\Shan0xEngineUI.exe
